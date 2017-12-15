@@ -1,2 +1,2 @@
 # JavaSnakeCoin
-TEST Tiniest Blockchain in Java
+Tiniest Blockchain in Java
